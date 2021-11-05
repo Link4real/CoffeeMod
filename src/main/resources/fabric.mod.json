@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "coffeemod",
+  "version": "${version}",
+
+  "name": "Coffee Mod",
+  "description": "This mod adds coffee to the game!",
+  "authors": [
+    "Link4real"
+  ],
+  "contact": {
+    "homepage": "https://link4real.github.io/coffee",
+    "sources": "https://github.com/Link4real/CoffeMod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/coffeemod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.link.coffee.mod.Main"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "plushies": "Plushie Mod for Fabric by Link4real"
+  }
+}
