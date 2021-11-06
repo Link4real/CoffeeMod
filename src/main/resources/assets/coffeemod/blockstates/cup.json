@@ -1,0 +1,9 @@
+
+{
+  "variants": {
+    "facing=north": { "model": "coffeemod:block/cup"},
+    "facing=east":  { "model": "coffeemod:block/cup", "y":  90},
+    "facing=south": { "model": "coffeemod:block/cup", "y": 180},
+    "facing=west":  { "model": "coffeemod:block/cup", "y": 270}
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "coffeemod:block/latte_machiatto_0"
+    },
+    "bites=1": {
+      "model": "coffeemod:block/latte_machiatto_0"
+    },
+    "bites=2": {
+      "model": "coffeemod:block/latte_machiatto_1"
+    },
+    "bites=3": {
+      "model": "coffeemod:block/latte_machiatto_1"
+    },
+    "bites=4": {
+      "model": "coffeemod:block/latte_machiatto_2"
+    },
+    "bites=5": {
+      "model": "coffeemod:block/latte_machiatto_2"
+    },
+    "bites=6": {
+      "model": "coffeemod:block/latte_machiatto_3"
+    }
+  }
+}

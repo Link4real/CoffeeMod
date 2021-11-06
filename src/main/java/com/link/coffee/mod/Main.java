@@ -24,6 +24,7 @@ public class Main implements ModInitializer {
             .icon(() -> new ItemStack(ModBlocks.CUP))
             .appendItems(stacks -> {
                 stacks.add(new ItemStack(ModBlocks.CUP));
+                stacks.add(new ItemStack(ModBlocks.LATTE_MACHIATO));
             })
             .build();
     // ...
